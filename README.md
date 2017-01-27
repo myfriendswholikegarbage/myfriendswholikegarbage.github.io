@@ -24,13 +24,9 @@ You’re right, it’s absolutely not activism. But neither is arguing on Facebo
 
 We strongly support this. In the end, the results are the same.
 
-#### I’m a wishy-washy milquetoast moderate, and am now in the reconciliation and acceptance phase of the post-election landscape. I’m really proud to have friends from all political persuasions (and I share this holier-than-thou sentiment loudly and often). How can your site help me?
+#### I’m a wishy-washy milquetoast moderate, and am now in the reconciliation phase of the post-election landscape. I’m really proud to have friends from all political persuasions (and I share this holier-than-thou sentiment loudly and often). How can your site help me?
 
-It probably can’t. But we take inspiration from Dr. King:
-
-> First, I must confess that over the last few years I have been gravely disappointed with the white moderate. I have almost reached the regrettable conclusion that the Negro's great stumbling block in the stride toward freedom is not the White Citizen's Council-er or the Ku Klux Klanner, but the white moderate who is more devoted to "order" than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice; who constantly says "I agree with you in the goal you seek, but I can't agree with your methods of direct action;" who paternalistically feels he can set the timetable for another man's freedom; who lives by the myth of time and who constantly advises the Negro to wait until a "more convenient season.
-
-> Shallow understanding from people of goodwill is more frustrating than absolute misunderstanding from people of ill will. Lukewarm acceptance is much more bewildering than outright rejection."
+It probably can’t.
 
 
 
