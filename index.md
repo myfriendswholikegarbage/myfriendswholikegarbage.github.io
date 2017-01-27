@@ -46,6 +46,17 @@ use-site-title: true
 
 ### [Infowars](https://www.facebook.com/search/80256732576/likers/me/friends/intersect){:target="_blank"}
 
+### [Breitbart](https://www.facebook.com/search/95475020353/likers/me/friends/intersect){:target="_blank"}
+
+### [LifeZette](https://www.facebook.com/search/108247159506719/likers/me/friends/intersect){:target="_blank"}
+
+### [The Daily Caller](https://www.facebook.com/search/182919686769/likers/me/friends/intersect){:target="_blank"}
+
+
+
+
+
+
 
 
 
@@ -64,6 +75,8 @@ use-site-title: true
 ### [Boris Johnson](https://www.facebook.com/search/7972991316/likers/me/friends/intersect){:target="_blank"}
 
 ### [Alternative for Deutschland](https://www.facebook.com/search/540404695989874/likers/me/friends/intersect){:target="_blank"}
+
+### [Five Star Movement](https://www.facebook.com/search/174457180812/likers/me/friends/intersect){:target="_blank"}
 
 ### [Law and Justice Party](https://www.facebook.com/search/157458232131/likers/me/friends/intersect){:target="_blank"}
 
