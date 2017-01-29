@@ -19,6 +19,8 @@ use-site-title: true
 
 ### [Ivanka Trump](https://www.facebook.com/search/120745732681/likers/me/friends/intersect){:target="_blank"}
 
+### [Sean Hannity](https://www.facebook.com/search/69813760388/likers/me/friends/intersect){:target="_blank"}
+
 ### [Bill O’Reilly](https://www.facebook.com/search/408250066356/likers/me/friends/intersect){:target="_blank"}
 
 ### [Rush Limbaugh](https://www.facebook.com/search/136264019722601/likers/me/friends/intersect){:target="_blank"}
